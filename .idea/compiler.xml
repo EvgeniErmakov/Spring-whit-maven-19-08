@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-with-maven-19-08" />
+        <module name="Spring-whit-maven" />
       </profile>
     </annotationProcessing>
   </component>
